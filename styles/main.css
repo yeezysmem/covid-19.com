@@ -1,6 +1,9 @@
 *{margin:0;padding:0;}
 
-body
+@font-face { 
+  font-family: 'golos'; 
+  src: url('Golos Text_Medium.ttf');                                    /* IE9 Compat Modes */ 
+  
 {
   font-family: "golos","sans serif";
   font-size: 16px;
